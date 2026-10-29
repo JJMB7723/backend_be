@@ -1,0 +1,6 @@
+# Node.js dependencies - anyone can recreate this with "npm install"
+node_modules/
+
+# Environment variables - contains secrets like passwords and keys
+.env
+
